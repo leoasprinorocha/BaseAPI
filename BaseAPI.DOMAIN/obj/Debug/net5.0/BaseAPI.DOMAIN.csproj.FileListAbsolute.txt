@@ -1,0 +1,14 @@
+C:\Users\aspri\OneDrive\Área de Trabalho\BaseAPI\BaseAPI.DOMAIN\bin\Debug\net5.0\BaseAPI.DOMAIN.deps.json
+C:\Users\aspri\OneDrive\Área de Trabalho\BaseAPI\BaseAPI.DOMAIN\bin\Debug\net5.0\BaseAPI.DOMAIN.runtimeconfig.json
+C:\Users\aspri\OneDrive\Área de Trabalho\BaseAPI\BaseAPI.DOMAIN\bin\Debug\net5.0\BaseAPI.DOMAIN.runtimeconfig.dev.json
+C:\Users\aspri\OneDrive\Área de Trabalho\BaseAPI\BaseAPI.DOMAIN\bin\Debug\net5.0\BaseAPI.DOMAIN.dll
+C:\Users\aspri\OneDrive\Área de Trabalho\BaseAPI\BaseAPI.DOMAIN\bin\Debug\net5.0\ref\BaseAPI.DOMAIN.dll
+C:\Users\aspri\OneDrive\Área de Trabalho\BaseAPI\BaseAPI.DOMAIN\bin\Debug\net5.0\BaseAPI.DOMAIN.pdb
+C:\Users\aspri\OneDrive\Área de Trabalho\BaseAPI\BaseAPI.DOMAIN\obj\Debug\net5.0\BaseAPI.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aspri\OneDrive\Área de Trabalho\BaseAPI\BaseAPI.DOMAIN\obj\Debug\net5.0\BaseAPI.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\aspri\OneDrive\Área de Trabalho\BaseAPI\BaseAPI.DOMAIN\obj\Debug\net5.0\BaseAPI.DOMAIN.AssemblyInfo.cs
+C:\Users\aspri\OneDrive\Área de Trabalho\BaseAPI\BaseAPI.DOMAIN\obj\Debug\net5.0\BaseAPI.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\aspri\OneDrive\Área de Trabalho\BaseAPI\BaseAPI.DOMAIN\obj\Debug\net5.0\BaseAPI.DOMAIN.dll
+C:\Users\aspri\OneDrive\Área de Trabalho\BaseAPI\BaseAPI.DOMAIN\obj\Debug\net5.0\ref\BaseAPI.DOMAIN.dll
+C:\Users\aspri\OneDrive\Área de Trabalho\BaseAPI\BaseAPI.DOMAIN\obj\Debug\net5.0\BaseAPI.DOMAIN.pdb
+C:\Users\aspri\OneDrive\Área de Trabalho\BaseAPI\BaseAPI.DOMAIN\obj\Debug\net5.0\BaseAPI.DOMAIN.genruntimeconfig.cache
